@@ -19,10 +19,10 @@ For more information of the optimization model and assumptions, can be found in 
 
 **Supply chain network layers** - These CSV data files contain the information of the origin and destination of the mass flows between supplier/entities. Additionally, the amount of mass transported between nodes is included in tonne/year. 
 
-1. Supply chain network using GWP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/GWP_SC.csv)
-2. Supply chain network using HTP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/HTP_SC.csv)
-3. Supply chain network using FDP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/FDP_SC.csv)
-4. Supply chain network using ALOP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/ALOP_SC.csv)
+1. Supply chain network using GWP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/GWP_SC.xlsx)
+2. Supply chain network using HTP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/HTP_SC.xlsx)
+3. Supply chain network using FDP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/FDP_SC.xlsx)
+4. Supply chain network using ALOP as environmental criterion [file](https://github.com/caaficus/QGIS-BiobasedPET/blob/main/Supply%20chain%20network/ALOP_SC.xlsx)
 
 
 
